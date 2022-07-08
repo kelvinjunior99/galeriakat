@@ -1,0 +1,82 @@
+
+.menu .nav-link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	color: #198754!important;
+	font-size: 11pt!important;
+	
+}
+
+.menu  {
+	border-bottom: 4px solid #20c997!important;
+}
+
+.menu .dropdown-menu {
+	background-color: none!important;
+	border: none!important;
+}
+.menu .dropdown-menu .dropdown-item {
+	background-color: #118a65!important;
+	margin: 8px!important;
+	border-radius: 10px;
+	color: #272626;
+	font-weight: bold;
+	text-align: center;
+	transition: all 0.2s;
+}
+
+.menu .dropdown-menu .dropdown-item:hover {
+	color: #fff;
+}
+
+.menu input {
+	border-radius: 10em;
+	outline: none;
+}
+.menu input:active, .menu input:focus {
+	box-shadow: none!important;
+	outline: none;
+	border-color: #20c997;
+}
+
+
+.formulario input {
+	border-color: #d0d0d0!important;
+	border-radius: 10em!important;
+	border: 2px solid #ccc!important;
+}
+
+.formulario button {
+	border-radius: 10em!important;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.formulario select {
+	border-radius: 10em!important;
+	font-family: sans-serif;
+	font-weight: bold;
+	border: 2px solid #ccc;
+}
+
+.formulario select:active, .formulario select:focus {
+	outline: none!important;
+	box-shadow: none!important;
+	border-color: #20c997!important;
+}
+
+.formulario .alert {
+	margin-top: -30px!important;
+	margin-bottom: 67px!important;
+}
+
+.input-ficheiro:active, .input-ficheiro:focus  {
+	outline: none!important;
+	box-shadow: none!important;
+	border-color: #20c997!important;        
+}
+
+.borda:active, .borda:focus {
+	outline: none!important;
+	box-shadow: none!important;
+	border-color: #20c997!important;        
+}
